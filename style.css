@@ -253,7 +253,7 @@
 }
 
 
-@media (max-width:500px){
+@media (max-width:768px){
     .banner header{
         padding:20px 50px;
     }
